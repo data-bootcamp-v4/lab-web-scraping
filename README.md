@@ -17,18 +17,14 @@
 
 </details>
 
-<details>
-
-</details>
-
 
 ## Introduction
 
 Welcome to your next challenge, aspiring data explorers!
 
-In today’s digital age, data is the backbone of many decision-making processes, and the entertainment industry is no exception. Companies use vast arrays of data to gauge audience preferences, track market trends, and make informed decisions that could potentially lead to the next Netflix hit.
+In today’s digital age, data serves as the backbone of many decision-making processes, and the entertainment industry is no exception. Companies use vast arrays of data to gauge audience preferences, track market trends, and make informed decisions that could potentially lead to the next Netflix hit.
 
-In this lab, you will step into the shoes of a data analyst working for a leading film production company. Your mission? To scrape IMDb, one of the largest online databases for movies, TV, and celebrity info, and extract meaningful data that can aid in understanding the film landscape during a specified period.
+In this lab, you will step into the shoes of a data analyst working for a leading film production company. Your mission? To scrape IMDb, one of the world's largest online databases for movies, TV, and celebrity info, and extract meaningful data that can aid understanding the film landscape during a specified period.
 
 Leveraging Python along with libraries such as BeautifulSoup and Pandas, you will build a script to scrape movie data based on specific criteria: title type, user rating, and release dates. The extracted data will be organized into a well-structured pandas DataFrame, ready for analysis.
 
