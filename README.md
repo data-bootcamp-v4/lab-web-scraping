@@ -22,15 +22,15 @@
 
 Welcome to your next challenge, aspiring data explorers!
 
-In today’s digital age, data serves as the backbone of many decision-making processes, and the entertainment industry is no exception. Companies use vast arrays of data to gauge audience preferences, track market trends, and make informed decisions that could potentially lead to the next Netflix hit.
+In today’s digital age, data serves as the backbone of many decision-making processes, and the publishing industry is no exception. Companies use vast arrays of data to gauge reader preferences, track market trends, and make informed decisions that could lead to the next bestseller.
 
-In this lab, you will step into the shoes of a data analyst working for a leading film production company. Your mission? To scrape IMDb, one of the world's largest online databases for movies, TV, and celebrity info, and extract meaningful data that can aid understanding the film landscape during a specified period.
+In this lab, you will step into the shoes of a data analyst working for a leading publishing company. Your mission? To scrape **Books to Scrape**, one of the world's most accessible online databases for books, and extract meaningful data that can aid in understanding the literary landscape during a specified period.
 
-Leveraging Python along with libraries such as BeautifulSoup and Pandas, you will build a script to scrape movie data based on specific criteria: title type, user rating, and release dates. The extracted data will be organized into a well-structured pandas DataFrame, ready for analysis.
+Leveraging Python along with libraries such as BeautifulSoup and Pandas, you will build a script to scrape book data based on specific criteria: minimum rating and maximum price. The extracted data will be organized into a well-structured pandas DataFrame, ready for analysis.
 
-As you navigate through this lab, not only will you enhance your web scraping skills, but you will also explore the fascinating world of movies, uncovering trends and insights that lie hidden in IMDb's extensive database.
+As you navigate through this lab, not only will you enhance your web scraping skills, but you will also explore the fascinating world of books, uncovering trends and insights that lie hidden in the extensive data available on **Books to Scrape**.
 
-Prepare yourself for an adventure into the world of big data and movies. Every line of code takes you a step closer to becoming a data wizard in the cinematic universe. Let's delve into the data and may the insights be with you!
+Prepare yourself for an adventure into the world of big data and literature. Every line of code takes you a step closer to becoming a data wizard in the literary universe. Let's delve into the data, and may the insights be with you!
 
 <br>
 
